@@ -1,0 +1,26 @@
+{
+  "name": "ungearchive",
+  "version": "1.0.0",
+  "description": "Archive with Unge's streams powered by GitHub's WorkFlows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ungeklickt/ungearchive.git"
+  },
+  "keywords": [
+    "ungeklickt",
+    "unge"
+  ],
+  "author": "NoNamePro0",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ungeklickt/ungearchive/issues"
+  },
+  "homepage": "https://github.com/ungeklickt/ungearchive#readme",
+  "dependencies": {
+    "jsdom": "^16.5.2"
+  }
+}
